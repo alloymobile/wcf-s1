@@ -12,6 +12,9 @@ namespace CalculatorService
     // NOTE: In order to launch WCF Test Client for testing this service, please select Service1.svc or Service1.svc.cs at the Solution Explorer and start debugging.
     public class Service1 : IService1
     {
+        string username = "hello@gmail.com";
+        string pass = "hello123";
+
         public double Add(double n1, double n2)
         {
             return n1 + n2;
@@ -30,6 +33,18 @@ namespace CalculatorService
         public double Div(double n1, double n2)
         {
             return n1 / n2;
+        }
+
+        public string Login(string email,string password)
+        {
+            if(email.Equals(username) && password.Equals(pass))
+            {
+                return "Login successful";
+            }
+            else
+            {
+                return "Login failed";
+            }
         }
     }
 }

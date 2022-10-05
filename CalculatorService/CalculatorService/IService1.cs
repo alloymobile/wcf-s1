@@ -20,5 +20,8 @@ namespace CalculatorService
         double Mul(double n1, double n2);
         [OperationContract]
         double Div(double n1, double n2);
+
+        [OperationContract]
+        string Login(string email, string password);
     }
 }
