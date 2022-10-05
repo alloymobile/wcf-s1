@@ -1,0 +1,7 @@
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\bin\CalculatorService.dll.config
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\bin\CalculatorService.dll
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\bin\CalculatorService.pdb
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.AssemblyReference.cache
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\obj\Debug\CalculatorService.csproj.CoreCompileInputs.cache
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\obj\Debug\CalculatorService.dll
+D:\wcf\s1\wcf-s1\CalculatorService\CalculatorService\obj\Debug\CalculatorService.pdb

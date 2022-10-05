@@ -1,0 +1,8 @@
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\wcf\s1\wcf-s1\CalculatorService\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
